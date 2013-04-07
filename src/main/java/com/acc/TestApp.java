@@ -9,6 +9,7 @@ public class TestApp {
 		System.out.println("Project : First alone...Maven");
 		
 		System.out.println("Adding additional...Details..");
+		System.out.println("Adding another line.....Details..");
 	}
 
 }
